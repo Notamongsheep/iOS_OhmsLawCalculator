@@ -1,45 +1,45 @@
 
 /* Class = "UIButton"; normalTitle = "X Close"; ObjectID = "9Gm-Y9-iPv"; */
-"9Gm-Y9-iPv.normalTitle" = "X Close";
+"9Gm-Y9-iPv.normalTitle" = "X Verstecken";
 
 /* Class = "UIButton"; normalTitle = "Voltage"; ObjectID = "9IW-23-cg5"; */
-"9IW-23-cg5.normalTitle" = "Voltage";
+"9IW-23-cg5.normalTitle" = "Spannung";
 
-/* Class = "UIButton"; normalTitle = "Calculate!"; ObjectID = "9Oa-Cb-1f8"; */
-"9Oa-Cb-1f8.normalTitle" = "Calculate!";
+/* Class = "UIButton"; normalTitle = "Dynamic Localized Button"; ObjectID = "9Oa-Cb-1f8"; */
+"9Oa-Cb-1f8.normalTitle" = "Dynamic Localized Button";
 
 /* Class = "UIButton"; normalTitle = "Current"; ObjectID = "H58-mJ-Lpp"; */
-"H58-mJ-Lpp.normalTitle" = "Current";
+"H58-mJ-Lpp.normalTitle" = "Strom";
 
 /* Class = "UILabel"; text = "Ohm's Law is an essential calculation used to figure out the needed resistance, current, or voltage in a circuit."; ObjectID = "MAV-KT-tD5"; */
-"MAV-KT-tD5.text" = "Ohm's Law is an essential calculation used to figure out the needed resistance, current, or voltage in a circuit.";
+"MAV-KT-tD5.text" = "Das Ohmsche Gesetz ist eine wesentliche berechnung, die verwendet wird, um die benötigte spannung, den strom oder den widerstand in einer schaltung zu ermitteln.";
 
 /* Class = "UILabel"; text = "Amps"; ObjectID = "OOH-lw-coM"; */
-"OOH-lw-coM.text" = "Amps";
+"OOH-lw-coM.text" = "Ampere(s)";
 
 /* Class = "UIButton"; normalTitle = "Exit Ohm's Law Calculator"; ObjectID = "ZhN-5v-b92"; */
-"ZhN-5v-b92.normalTitle" = "Exit Ohm's Law Calculator";
+"ZhN-5v-b92.normalTitle" = "Beenden Sie Ohms Gesetz-Rechner";
 
 /* Class = "UILabel"; text = "Resistance"; ObjectID = "dnz-4x-YPv"; */
-"dnz-4x-YPv.text" = "Resistance";
+"dnz-4x-YPv.text" = "Widertand";
 
 /* Class = "UILabel"; text = "Ohms"; ObjectID = "goa-0D-rMP"; */
-"goa-0D-rMP.text" = "Ohms";
+"goa-0D-rMP.text" = "Ohm(s)";
 
 /* Class = "UILabel"; text = "Volts"; ObjectID = "iZb-iP-8de"; */
-"iZb-iP-8de.text" = "Volts";
+"iZb-iP-8de.text" = "Volt(s)";
 
 /* Class = "UIButton"; normalTitle = "Resistance"; ObjectID = "jYD-xy-s3c"; */
-"jYD-xy-s3c.normalTitle" = "Resistance";
+"jYD-xy-s3c.normalTitle" = "Widerstand";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "qx1-af-Sme"; */
 "qx1-af-Sme.text" = "Label";
 
 /* Class = "UILabel"; text = "Ohm's Law Calculator"; ObjectID = "tIq-ak-P4u"; */
-"tIq-ak-P4u.text" = "Ohm's Law Calculator";
+"tIq-ak-P4u.text" = "Ohmsches Gesetz Rechner";
 
 /* Class = "UILabel"; text = "Voltage"; ObjectID = "uGX-Xg-W0r"; */
-"uGX-Xg-W0r.text" = "Voltage";
+"uGX-Xg-W0r.text" = "Spannung";
 
 /* Class = "UILabel"; text = "Current"; ObjectID = "w8b-eh-fH6"; */
-"w8b-eh-fH6.text" = "Current";
+"w8b-eh-fH6.text" = "Strom";

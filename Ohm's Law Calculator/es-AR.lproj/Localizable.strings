@@ -3,24 +3,14 @@
   Ohm's Law Calculator
 
   Created by Christine Berger on 11/13/17.
+  Credit to Nahuel Alejandro Veron for translating to the Spanish (Argentina) dialect.
   Copyright © 2017 Christine Berger. All rights reserved.
 */
 
-"App Title" = "Ohm's Law Calculator";
-"App Descr" = "Ohm's Law is an essential calculation used to figure out the needed voltage, current, or resistance in a circuit.";
-"Voltage" = "Voltage";
-"Current" = "Current";
-"Resistance" = "Resistance";
-"Calc Disabled" = "Fill in the required values to calculate.";
-"Calc" = "Calculate!";
-"X Close" = "X Close";
-"Exit App" = "Exit Ohm's Law Calculator";
-"Stay" = "Stay";
-"Exit" = "Exit";
-"Volts" = "Volt(s)";
-"Amps" = "Amp(s)";
-"Ohms" = "Ohm(s)";
-"Verify Exit" = "Are you sure you want to exit?";
-"Format Float" = "%.2f";
-"Number Format" = "The value given for %@ must be a number. (Examples: 1, 1.0, 3.14)";
-"Unknown Format" = "???";
+"Calc Disabled" = "Ingresa los valores requeridos para calcular";
+"Calc" = "Calcular!";
+"Exit App Modal Title" = "Salir de la Calculadora de ley de Ohm";
+"Stay" = "Continuar";
+"Exit" = "Salir";
+"Verify Exit" = "Esta seguro que desea salir?";
+"Number Format" = "El valor dado para %@ debe ser un número. (Ejemplos: 1, 1.0, 3.14)";
