@@ -1,0 +1,18 @@
+/* 
+  LocalizableStrings.strings
+  Ohm's Law Calculator
+
+  Created by Christine Berger on 11/13/17.
+  Copyright © 2017 Christine Berger. All rights reserved.
+*/
+
+"Ohm's Law Calculator" = "Ohm's Law Calculator"
+"Ohm's Law is an essential calculation used to figure out the needed resistance, current, or voltage in a circuit." = "Ohm's Law is an essential calculation used to figure out the needed resistance, current, or voltage in a circuit."
+"Voltage" = "Voltage"
+"Volt(s)" = "Volt(s)"
+"Current" = "Current"
+"Amp(s)" = "Amp(s)"
+"Resistance" = "Resistance"
+"Ohm(s)" = "Ohm(s)"
+
+

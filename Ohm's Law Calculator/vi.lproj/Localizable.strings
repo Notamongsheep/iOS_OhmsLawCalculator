@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Ohm's Law Calculator
+
+  Created by Christine Berger on 11/13/17.
+  Copyright © 2017 Christine Berger. All rights reserved.
+*/
+
+"App Descr" = "Ohm's Law is an essential calculation used to figure out the needed voltage, current, or resistance in a circuit.";

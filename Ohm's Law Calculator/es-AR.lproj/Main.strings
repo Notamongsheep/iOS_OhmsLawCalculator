@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "X Close"; ObjectID = "9Gm-Y9-iPv"; */
+"9Gm-Y9-iPv.normalTitle" = "X Close";
+
+/* Class = "UIButton"; normalTitle = "Voltage"; ObjectID = "9IW-23-cg5"; */
+"9IW-23-cg5.normalTitle" = "Voltage";
+
+/* Class = "UIButton"; normalTitle = "Calculate!"; ObjectID = "9Oa-Cb-1f8"; */
+"9Oa-Cb-1f8.normalTitle" = "Calculate!";
+
+/* Class = "UIButton"; normalTitle = "Current"; ObjectID = "H58-mJ-Lpp"; */
+"H58-mJ-Lpp.normalTitle" = "Current";
+
+/* Class = "UILabel"; text = "Ohm's Law is an essential calculation used to figure out the needed resistance, current, or voltage in a circuit."; ObjectID = "MAV-KT-tD5"; */
+"MAV-KT-tD5.text" = "Ohm's Law is an essential calculation used to figure out the needed resistance, current, or voltage in a circuit.";
+
+/* Class = "UILabel"; text = "Amps"; ObjectID = "OOH-lw-coM"; */
+"OOH-lw-coM.text" = "Amps";
+
+/* Class = "UIButton"; normalTitle = "Exit Ohm's Law Calculator"; ObjectID = "ZhN-5v-b92"; */
+"ZhN-5v-b92.normalTitle" = "Exit Ohm's Law Calculator";
+
+/* Class = "UILabel"; text = "Resistance"; ObjectID = "dnz-4x-YPv"; */
+"dnz-4x-YPv.text" = "Resistance";
+
+/* Class = "UILabel"; text = "Ohms"; ObjectID = "goa-0D-rMP"; */
+"goa-0D-rMP.text" = "Ohms";
+
+/* Class = "UILabel"; text = "Volts"; ObjectID = "iZb-iP-8de"; */
+"iZb-iP-8de.text" = "Volts";
+
+/* Class = "UIButton"; normalTitle = "Resistance"; ObjectID = "jYD-xy-s3c"; */
+"jYD-xy-s3c.normalTitle" = "Resistance";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qx1-af-Sme"; */
+"qx1-af-Sme.text" = "Label";
+
+/* Class = "UILabel"; text = "Ohm's Law Calculator"; ObjectID = "tIq-ak-P4u"; */
+"tIq-ak-P4u.text" = "Ohm's Law Calculator";
+
+/* Class = "UILabel"; text = "Voltage"; ObjectID = "uGX-Xg-W0r"; */
+"uGX-Xg-W0r.text" = "Voltage";
+
+/* Class = "UILabel"; text = "Current"; ObjectID = "w8b-eh-fH6"; */
+"w8b-eh-fH6.text" = "Current";
