@@ -3,7 +3,14 @@
   Ohm's Law Calculator
 
   Created by Christine Berger on 11/13/17.
+  Credit to Nahuel Alejandro Veron for translating to the Spanish (Argentina) dialect.
   Copyright © 2017 Christine Berger. All rights reserved.
 */
 
-"App Descr" = "Ohm's Law is an essential calculation used to figure out the needed voltage, current, or resistance in a circuit.";
+"Calc Disabled" = "Füllen sie die erforderlichen werte aus, um sie zu berechnen.";
+"Calc" = "Berechnen!";
+"Exit App Modal Title" = "Beenden Sie Ohms Gesetz-Rechner";
+"Stay" = "Bleibe";
+"Exit" = "Ausfahrt";
+"Verify Exit" = "Sind sie sicher, dass sie aufhören wollen?";
+"Number Format" = "Der für %@ angegebene wert muss eine zahl sein. (Beispiele: 1 1,0 3,14)";

@@ -2,7 +2,8 @@
 //  AppDelegate.swift
 //  Ohm's Law Calculator
 //
-//  Created by Johnny Chapman on 10/26/17.
+//  Created by Christine Berger on 10/26/17.
+//  Credit to Nahuel Alejandro Veron for translating to the Spanish (Argentina) dialect.
 //  Copyright © 2017 Christine Berger. All rights reserved.
 //
 
@@ -40,7 +41,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
-
-
 }
 

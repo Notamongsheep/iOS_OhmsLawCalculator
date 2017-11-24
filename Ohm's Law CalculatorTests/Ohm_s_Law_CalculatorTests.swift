@@ -2,7 +2,8 @@
 //  Ohm_s_Law_CalculatorTests.swift
 //  Ohm's Law CalculatorTests
 //
-//  Created by Johnny Chapman on 10/26/17.
+//  Created by Christine Berger on 10/26/17.
+//  Credit to Nahuel Alejandro Veron for translating to the Spanish (Argentina) dialect.
 //  Copyright © 2017 Christine Berger. All rights reserved.
 //
 
